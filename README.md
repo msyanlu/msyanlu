@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and Testing
 - 🌱 I’m currently learning Diploma of Software Development
 - 💞️ I’m looking to collaborate on Software Development and Testing
-- 📫 How to reach me ...
+- 📫 How to reach me misslvyan@gmail.com
 
 <!---
 msyanlu/msyanlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
